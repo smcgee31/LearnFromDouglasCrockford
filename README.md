@@ -54,6 +54,6 @@ Note: no line break after a return because semicolon insertion would turn the re
 
 #### Arguments
 There are two pseudo parameters that every function can receive...
-`arguments`
+`arguments` and 
 `this`
 
